@@ -1,0 +1,45 @@
+.container{
+    margin:0px;
+    padding: 0px;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.center-box{
+    display:flex;
+    justify-content: space-between;
+    background-color:skyblue;
+}
+.center-item{
+    display: flex;
+    justify-content: space-between;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+    margin:20px;
+    padding: 20px;
+}
+#hello{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+    list-style-type: none;
+    margin:20px;
+    padding: 20px;
+}
+
+ul a{
+    
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
